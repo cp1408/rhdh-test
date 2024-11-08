@@ -8,6 +8,10 @@ metadata:
       title: Trusted Secure Supply Chain 
       icon: dashboard
       type: admin-dashboard
+    - url: https://www.google.com
+      title: Release manager
+      icon: dashboard
+      type: admin-dashboard
   annotations:
     # ArgoCD apps from this template used rhtap-gitops as the grouping
     argocd/app-selector: rhtap/gitops=rhdh-test
